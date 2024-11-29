@@ -5,3 +5,5 @@ I do random programming stuff.
 ### Pronouns: He/It
 ### Time zone: GMT -05:00
 
+![](https://raw.githubusercontent.com/CrabbyDisk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/CrabbyDisk/github-stats/master/generated/overview.svg#gh-light-mode-only)

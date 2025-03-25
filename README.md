@@ -4,9 +4,4 @@ I do random programming stuff.
 
 ### Pronouns: He/It
 ### Time zone: GMT -05:00
-
-![](https://raw.githubusercontent.com/CrabbyDisk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CrabbyDisk/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/CrabbyDisk/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CrabbyDisk/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![CrabbyDisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabbydisk)](https://github.com/anuraghazra/github-readme-stats)

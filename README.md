@@ -4,4 +4,4 @@ I do random programming stuff.
 
 ### Pronouns: He/It
 ### Time zone: GMT -05:00
-[![CrabbyDisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabbydisk)](https://github.com/anuraghazra/github-readme-stats)
+![CrabbyDisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=crabbydisk&theme=dracula)
